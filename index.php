@@ -61,7 +61,7 @@
                 <a href="#Contact" class="btn btn-outline-light fss d-block d-md-none">
                     Register Now
                 </a>
-                <button class="d-block d-md-none btn" type="button" data-bs-toggle="collapse"
+                <button class="d-block d-md-none btn btn-lg" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
                     <svg width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -109,8 +109,9 @@
                 <div class="text-center align-items-center justify-content-center d-flex flex-column">
                     <h1 class="main-titlee pb-0 mb-0 mt-2 mt-md-0 text-center" data-aos="fade-up"
                         data-aos-duration="2000" data-aos-delay="50">Arabella Towns Calgary</h1>
-                    <p class="headline-textt mt-0 pt-0 text-white" data-aos="fade-up" data-aos-duration="2000"
-                        data-aos-delay="50">Townhomes in Calgary By Truman | Starting from the $350's</p>
+                    <p class="headline-textt mt-0 pt-0 px-3 center-sm px-md-0 text-white" data-aos="fade-up"
+                        data-aos-duration="2000" data-aos-delay="50">Townhomes in Calgary By Truman | Starting from the
+                        $350's</p>
                 </div>
             </div>
         </div>
@@ -118,7 +119,7 @@
 
     <section class=" py-md-5" id="about">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
-            <h2 class=" main-title fs-1 pt-md-5 pb-5  fw-bold ps-3 ps-md-0 d-flex justify-content-center text-center">
+            <h2 class=" main-title fs-1 pt-5 pb-3 pt fw-bold ps-3 ps-md-0 d-flex justify-content-center text-center">
                 About Arabella Towns</h2>
             <p class=" pb-3 px-3 textt d-flex justify-content-center align-items-center">Arabella Towns, a new townhome
                 project by Truman Homes in Calgary, located at 100 Street Southeast & Township Road 244. The development
