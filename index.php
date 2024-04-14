@@ -366,8 +366,9 @@
         <div class="container ">
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-5 pt-5 justify-content-between ">
                 <div class="col-md-5 my-3 fotwidth center-sm px-4 px-md-0">
-                    <p class=" ">
-                        <img src="./images/arabella logo.png" class="navbar-brand" alt="">
+                    <p class=" "> <a href="https://homebaba.ca/calgary/arabella-towns" target="_blank"> <img
+                                src="./images/arabella logo.png" class="navbar-brand" alt="">
+                        </a>
                     </p>
                     <span class="small-text justifyy">
                         We do not represent the builder. All renderings, incentives, pricing are subject to terms &
