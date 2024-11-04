@@ -26,7 +26,7 @@ function sendToFollowUpBoss($data)
             'phones' => array(
                 array('value' => $data['phone'])
             ),
-            'tags' => array('Arabella Towns', 'Dolphy')
+            'tags' => array('Arabella Towns')
         ),
         'source' => 'arabellatowns.ca',
         'system' => 'Custom Website',
